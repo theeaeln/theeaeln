@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amen</h1>
 <h3 align="center">System Business Analyst</h3>
 
-- 👨‍💻 All of my projects are available at my [here](https://github.com/theeaeln?tab=repositories) 
+- 👨‍💻 Looking for my projects - [here](https://github.com/theeaeln?tab=repositories) 
 
 - 💬 Ask me about **SQL**
 
